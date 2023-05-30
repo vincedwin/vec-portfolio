@@ -43,7 +43,7 @@ const NavbarMain =({Header, Color}:Props)=>{
               {/*Right*/}
               <div className='flex items-center justify-end space-x-8 w-24 h-full'>
                 <div onClick={()=>{setNavOpen(true)}} className='cursor-pointer'>
-                    <HiOutlineBars3 className='h-6 headerIcon '/>
+                    <HiOutlineBars3 className='h-6 headerIcon mix-blend-difference text-white'/>
                 </div> 
               </div> 
             </div>

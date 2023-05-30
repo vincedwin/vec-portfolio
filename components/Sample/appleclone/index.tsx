@@ -52,8 +52,9 @@ const AppleClone = () => {
         
       },[])
     return (
-        <div className='bg-black h-screen grid place-items-center'>
-            <canvas id="hero-lightpass" className='h-1/2 w-full fixed object-cover'/>
+        <div className='bg-black h-full grid place-items-center scrollbar-hide'>
+            <canvas id="hero-lightpass" 
+                className='h-1/2 w-full fixed object-cover left-1/2 top-1/2 -translate-y-1/2 -translate-x-1/2'/>
         </div>
     )
 }

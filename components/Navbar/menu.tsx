@@ -46,7 +46,13 @@ const NavMenuRow = ({Title, Tag, Icon, Action, onClick}:RowProps )=>{
 
 
 const NavMenu = ({close}:Props)=>{
-    const [Category, setCategory] = useState(['Home','Apple-Flip', "House", "News", 'Talents', 'invest','Contact'])
+    const [Category, setCategory] = useState([
+        'Apple-Flip', 
+        "News", 
+        'Talents', 
+        'invest',
+        'Contact'
+    ])
   return (
     <div
             onClick={(e)=>e.stopPropagation()} 
@@ -58,7 +64,10 @@ const NavMenu = ({close}:Props)=>{
                     scrollbar-thin scrollbar-track-transparent'>
                     {
                     Category?.map((item:any)=>(
-                        <NavMenuRow Title={item} Action={`${item.toLowerCase()}`} key={item}/>
+                        <NavMenuRow 
+                            Title={item} 
+                            Action={`${item.toLowerCase()}`} 
+                            key={item}/>
                     ))
                     }
                 </div>
