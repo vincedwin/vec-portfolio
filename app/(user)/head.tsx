@@ -1,4 +1,4 @@
-export default function HeadRoot() {
+export default async function Head() {
     return (
       <>
         <title>VEC Portfolio</title>
@@ -7,10 +7,10 @@ export default function HeadRoot() {
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
         <link rel="icon" href="../favicon.ico" />
-        <link rel="apple-touch-icon" href="/a2hs.png"/>
-        <link rel="apple-touch-icon" sizes="152x152" href="/Talentine/Logo.png"/>
-        <link rel="apple-touch-icon" sizes="180x180" href="/Talentine/Logo.png"/>
-        <link rel="apple-touch-icon" sizes="167x167" href="/Talentine/Logo.png"/>
+        <link rel="apple-touch-icon" href="/LogoW.png"/>
+        <link rel="apple-touch-icon" sizes="152x152" href="LogoW.png"/>
+        <link rel="apple-touch-icon" sizes="180x180" href="LogoW.png"/>
+        <link rel="apple-touch-icon" sizes="167x167" href="LogoW.png"/>
         <link rel="manifest" href="manifest.json"></link>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         {/* <link href="https://fonts.googleapis.com/css2?family=Cinzel&family=Cormorant+Upright:wght@300&family=IM+Fell+English&family=Italianno&family=Philosopher&display=swap" rel="stylesheet"/> */}

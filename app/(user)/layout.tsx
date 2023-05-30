@@ -17,7 +17,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <head/>
       <body className='bg-[#f0f0f0] scrollbar-hide'>
       <PageWrapper>
         <div>
