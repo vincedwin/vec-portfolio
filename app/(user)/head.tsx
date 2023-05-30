@@ -21,8 +21,8 @@ export default function HeadRoot() {
         <meta property="og:type" content="website"/>
         <meta property="og:title" content="Vincent"/>
         <meta property="og:description" content="Vincent"/>
-        <meta property="og:image" content="/LOGOW.png"/>
-        <meta property="og:image:alt" content="About Acme" />
+        <meta property="og:image" content="http://vecvec.vercel.app/api/og"/>
+        <meta property="og:image:alt" content="About Vincent" />
         {/*Twitter*/}
         <meta property="twitter:card" content="summary_large_image"/>
         <meta property="twitter:title" content="Vincent"/>

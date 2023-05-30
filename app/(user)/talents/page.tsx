@@ -1,6 +1,8 @@
 const Talents = () => {
   return (
-    <div>Talents</div>
+    <div className='h-screen w-screen grid place-items-center'>
+        Coming Soon
+    </div>
   )
 }
 export default Talents

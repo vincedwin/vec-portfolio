@@ -19,19 +19,31 @@ export default function(req : NextRequest){
               style={{
                 display:'flex',
                 fontSize: 100,
-                color: '#e6e6e6',
+                color: 'black',
                 background:'#c9a91c',
                 width: '100%',
                 height: '100%',
-                padding: '50px 200px',
                 textAlign: 'center',
-                justifyContent: 'center',
-                alignItems: 'center',
+                justifyContent: 'flex-start',
+                alignItems: 'flex-end',
               }}
-            ><div tw='flex flex-col items-center justify-center'>
-                <div>👋</div>
-                <div tw='font-light text-[60px]'>A humble developer </div>
-                <div>VEC</div>
+            >
+              <div
+              style={{
+                backgroundColor: '#e5e5f7',
+                opacity: 0.6,
+                backgroundImage:
+                  'linear-gradient(135deg, #c9a91c 25%, transparent 25%), linear-gradient(225deg, #c9a91c 25%, transparent 25%), linear-gradient(45deg, #c9a91c 25%, transparent 25%), linear-gradient(315deg, #c9a91c 25%, #e5e5f7 25%)',
+                backgroundPosition: '10px 0, 10px 0, 0 0, 0 0',
+                backgroundSize: '10px 10px',
+                backgroundRepeat: 'repeat',
+                width: '100%',
+                height: '100%',
+                position: 'absolute',}}
+              />
+              <div tw='flex flex-col p-8 items-start'>
+                <div tw='bg-white px-8'>VEC 👋</div>
+                <div tw='bg-white font-light text-[60px] px-8'>A humble developer </div>
               </div>
             </div>
           ),
