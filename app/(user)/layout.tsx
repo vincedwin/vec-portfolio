@@ -1,5 +1,7 @@
+import { NavbarMain } from '@/components'
 import '../../style/globals.css'
 import { Inter } from 'next/font/google'
+import PageWrapper from './pagewrapper'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -15,7 +17,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body>
+      <PageWrapper>
+        <div>
+          <NavbarMain/>
+          {children}
+        </div>
+      </PageWrapper>
+      </body>
     </html>
   )
 }
