@@ -11,7 +11,11 @@ up-to-date tech as instrument to improve connections between brands and end-user
 building portfolio websites for my clients mainly focusing on UI/ UX.
 
 # Purpose
-For visual impression and to demonstrate GSAP use case.
+The major purpose for this project 
+1) portfolio show case
+2) UX visual presentation lies towards the artistic side
+3) mix use-cases between GSAP and Framer motion. 
+4) To test SEO performance including OG properties.
 
 ## Navegation 
 Main Intro demo
@@ -23,9 +27,6 @@ Apple airpod demo flip
 The Apple airpod demo show cased mutipule techiques, including url fetching, scrolltrigger kind.
 https://vecvec.vercel.app/apple-flip
 ![Screenshot 2023-06-15 at 8 37 59 PM](https://github.com/vincedwin/vec-portfolio/assets/52823998/c49f60c5-8dfd-4747-a1cd-354afefd3edd)
-
-# Purpose
-The major purpose for this demo is to demostrate the UI/UX presentation towards the artistic side/ mix use-cases between GSAP and Framer motion. as well as to test SEO performance including OG properties.
 
 # TechStack
 Nextjs 13 (app directry)
