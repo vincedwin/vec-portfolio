@@ -8,6 +8,9 @@ brand values, solving business challenges as well as achieving their business go
 up-to-date tech as instrument to improve connections between brands and end-users. So far I have been
 building portfolio websites for my clients mainly focusing on UI/ UX.
 
+# Purpose
+To demonstrate GSAP use case, for visual presentation.
+
 # Navegation 
 Main Intro demo
 https://vecvec.vercel.app/
