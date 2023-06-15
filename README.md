@@ -1,34 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# VEC Portfolio
+(Git Open until 1st July)
 
-## Getting Started
+Data Science bootcamp graduate || Business-minded front-end engineer (Reactjs)
 
-First, run the development server:
+With a mix background in Marketing/ Sales/ Tech. I spend my time assisting businesses to speak out
+brand values, solving business challenges as well as achieving their business goals. My passion is to use
+up-to-date tech as instrument to improve connections between brands and end-users. So far I have been
+building portfolio websites for my clients mainly focusing on UI/ UX.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+# Navegation 
+Main Intro demo
+https://vecvec.vercel.app/
+![Screenshot 2023-06-15 at 8 38 12 PM](https://github.com/vincedwin/vec-portfolio/assets/52823998/93bdca0f-8fd7-41e4-8bb0-f87a00f4a40c)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Apple airpod demo flip
+https://vecvec.vercel.app/apple-flip
+![Screenshot 2023-06-15 at 8 37 59 PM](https://github.com/vincedwin/vec-portfolio/assets/52823998/c49f60c5-8dfd-4747-a1cd-354afefd3edd)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Purpose
+The major purpose for this demo is to demostrate the UI/UX presentation towards the artistic side/ mix use-cases between GSAP and Framer motion. as well as to test SEO performance including OG properties.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# TechStack
+Nextjs 13 (app directry)
 
-## Learn More
+Tailwindcss
 
-To learn more about Next.js, take a look at the following resources:
+GSAP
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Framer motion
