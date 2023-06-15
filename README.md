@@ -11,7 +11,7 @@ up-to-date tech as instrument to improve connections between brands and end-user
 building portfolio websites for my clients mainly focusing on UI/ UX.
 
 # Purpose
-To demonstrate GSAP use case, for visual presentation.
+For visual impression and to demonstrate GSAP use case.
 
 ## Navegation 
 Main Intro demo
