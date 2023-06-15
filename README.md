@@ -1,5 +1,5 @@
 # About Me
-(Git Open until 1st July)
+(Github opens until 1st July)
 
 Data Science bootcamp graduate || Business-minded front-end engineer (Reactjs)
 
