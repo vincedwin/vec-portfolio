@@ -1,4 +1,4 @@
-# VEC Portfolio
+# About Me
 (Git Open until 1st July)
 
 Data Science bootcamp graduate || Business-minded front-end engineer (Reactjs)
