@@ -1,6 +1,7 @@
 # About Me
 (Github opens until 1st July)
-Hi reader, 
+
+Hi, 
 
 I am Vincent, I am a Data Science bootcamp graduate || Business-minded front-end engineer (Reactjs)
 
