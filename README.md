@@ -1,7 +1,8 @@
 # About Me
 (Github opens until 1st July)
+Hi reader, 
 
-Data Science bootcamp graduate || Business-minded front-end engineer (Reactjs)
+I am Vincent, I am a Data Science bootcamp graduate || Business-minded front-end engineer (Reactjs)
 
 With a mix background in Marketing/ Sales/ Tech. I spend my time assisting businesses to speak out
 brand values, solving business challenges as well as achieving their business goals. My passion is to use
