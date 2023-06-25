@@ -1,15 +1,3 @@
-# About Me
-(Github opens until 1st July)
-
-Hi, 
-
-I am Vincent, I am a Data Science bootcamp graduate || Business-minded front-end engineer (Reactjs)
-
-With a mix background in Marketing/ Sales/ Tech. I spend my time assisting businesses to speak out
-brand values, solving business challenges as well as achieving their business goals. My passion is to use
-up-to-date tech as instrument to improve connections between brands and end-users. So far I have been
-building portfolio websites for my clients mainly focusing on UI/ UX.
-
 # Purpose
 The major purpose for this project 
 1) portfolio show case
